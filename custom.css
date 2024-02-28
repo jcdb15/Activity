@@ -1,0 +1,17 @@
+h1{
+    columns: violet;
+    font-size: 50px;
+    font-weight: 100;
+}
+.line1 {
+    color: green;
+}
+.line2 {
+    color: aquamarine;
+}
+.line3{
+    color: aqua;
+}
+.line4{
+    color: brown;
+}
